@@ -20,9 +20,9 @@ I am a **hybrid Graphic Designer and Creative Developer** based in Phnom Penh. I
 My goal is to design interactive spaces that are visually arresting yet structurally performant, utilizing procedural layouts, high-performance shaders, and robust frontend logic.
 
 ```
-+-------------------------------------------------------------------+
-| 🛠️  4+ Years Coding    |  📂  20+ Projects Completed  |  ⚡  99% Frame Rate  |
-+-------------------------------------------------------------------+
++----------------------------------------------------------------------------+
+| 🛠️  3+ Years Coding    |  📂  20+ Projects Completed  |  ⚡  99% Frame Rate  |
++----------------------------------------------------------------------------+
 ```
 
 ---
@@ -82,6 +82,6 @@ My goal is to design interactive spaces that are visually arresting yet structur
 ---
 
 ### 📬 Outbox Transmission (Connect)
-*   **Coordinates (Email)**: [em.raksa.dev@gmail.com](mailto:em.raksa.dev@gmail.com)
+*   **Coordinates (Email)**: [emraksa096@gmail.com](mailto:emraksa096@gmail.com)
 *   **Location**: Phnom Penh, Cambodia
 *   **Status**: Open for freelance & directives
